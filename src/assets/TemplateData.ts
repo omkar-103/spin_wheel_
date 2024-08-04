@@ -196,7 +196,7 @@ export const templateItems = [
   },
   {
     group: "Who's the next Participant?",
-    label: 'Vishnu Ghadigaonkar',
+    label: 'Siddhesh Sawant',
     weight: 1,
     order: 25
   },
@@ -295,8 +295,69 @@ export const templateItems = [
     label: 'Rishi Sharma',
     weight: 1,
     order: 41
-  }
+  },
 
+
+  {
+    group: "Who's the next Participant?",
+    label: 'Sahil Rane',
+    weight: 1,
+    order: 42
+  },
+  {
+    group: "Who's the next Participant?",
+    label: 'Riya Thombare',
+    weight: 1,
+    order: 43
+  },
+  {
+    group: "Who's the next Participant?",
+    label: 'Kunal Rajesh',
+    weight: 1,
+    order: 44
+  },
+  {
+    group: "Who's the next Participant?",
+    label: 'Kishor Singh',
+    weight: 1,
+    order: 45
+  },
+  {
+    group: "Who's the next Participant?",
+    label: 'Smith Pale',
+    weight: 1,
+    order: 46
+  },
+  {
+    group: "Who's the next Participant?",
+    label: 'Siddhesh Sawant',
+    weight: 1,
+    order: 47
+  },
+  {
+    group: "Who's the next Participant?",
+    label: 'Siddhesh Sawant',
+    weight: 1,
+    order: 48
+  },
+  {
+    group: "Who's the next Participant?",
+    label: '',
+    weight: 1,
+    order: 49
+  },
+  {
+    group: "Who's the next Participant?",
+    label: '',
+    weight: 1,
+    order: 50
+  },
+  {
+    group: "Who's the next Participant?",
+    label: '',
+    weight: 1,
+    order: 51
+  }
 
   // {
     //   group: 'Prizes',
