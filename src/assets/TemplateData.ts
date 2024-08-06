@@ -318,7 +318,7 @@ export const templateItems = [
   },
   {
     group: "Who's the next Participant?",
-    label: 'Kishor Singh',
+    label: 'Kirti Dunka',
     weight: 1,
     order: 45
   },
@@ -336,28 +336,119 @@ export const templateItems = [
   },
   {
     group: "Who's the next Participant?",
-    label: 'Siddhesh Sawant',
+    label: 'Kartik Gawali',
     weight: 1,
     order: 48
   },
   {
     group: "Who's the next Participant?",
-    label: '',
+    label: 'Nithin Gelle',
     weight: 1,
     order: 49
   },
   {
     group: "Who's the next Participant?",
-    label: '',
+    label: 'Roshan Ghanekar',
     weight: 1,
     order: 50
   },
   {
     group: "Who's the next Participant?",
-    label: '',
+    label: 'Sahil Hawaldar',
     weight: 1,
     order: 51
+  },
+  {
+    group: "Who's the next Participant?",
+    label: 'Ruchita Khair',
+    weight: 1,
+    order: 52
+  },
+  {
+    group: "Who's the next Participant?",
+    label: 'Shraddha Khodade',
+    weight: 1,
+    order: 53
+  },
+  {
+    group: "Who's the next Participant?",
+    label: 'Alok Mane',
+    weight: 1,
+    order: 54
+  },
+  {
+    group: "Who's the next Participant?",
+    label: 'Omraj Mhaskar',
+    weight: 1,
+    order: 55
+  },
+  {
+    group: "Who's the next Participant?",
+    label: 'Vighnesh Navle',
+    weight: 1,
+    order: 56
+  },
+  {
+    group: "Who's the next Participant?",
+    label: 'Harshad Parab',
+    weight: 1,
+    order: 57
+  },
+  {
+    group: "Who's the next Participant?",
+    label: 'Ayush Patil',
+    weight: 1,
+    order: 58
+  },
+  {
+    group: "Who's the next Participant?",
+    label: 'Shruti Pawar',
+    weight: 1,
+    order: 59
+  },
+  {
+    group: "Who's the next Participant?",
+    label: 'Sakshi Sawant',
+    weight: 1,
+    order: 60
+  },
+  {
+    group: "Who's the next Participant?",
+    label: 'Rushikesh Shingate',
+    weight: 1,
+    order: 61
+  },
+  {
+    group: "Who's the next Participant?",
+    label: 'Isha Shilkar',
+    weight: 1,
+    order: 62
+  },
+  {
+    group: "Who's the next Participant?",
+    label: 'Raj Tiwari',
+    weight: 1,
+    order: 63
+  },
+  {
+    group: "Who's the next Participant?",
+    label: 'Sandhiya Vakkaliga',
+    weight: 1,
+    order: 64
+  },
+  {
+    group: "Who's the next Participant?",
+    label: 'Riddhesh Wagvekar',
+    weight: 1,
+    order: 65
+  },
+  {
+    group: "Who's the next Participant?",
+    label: 'Aarya Chavan',
+    weight: 1,
+    order: 66
   }
+
 
   // {
     //   group: 'Prizes',
